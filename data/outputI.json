@@ -1,0 +1,32 @@
+[
+    {
+        "src": "images/players/32.png",
+        "title": "AA市的求職面試指南",
+        "url": "pieces/AA市的求職面試指南.html",
+        "order": 1.0
+    },
+    {
+        "src": "images/players/10.png",
+        "title": "AA的职场研发部记录",
+        "url": "pieces/AA的职场研发部记录.html",
+        "order": 2.0
+    },
+    {
+        "src": "images/players/35.png",
+        "title": "半成的忍者",
+        "url": "pieces/半成的忍者.html",
+        "order": 3.0
+    },
+    {
+        "src": "images/players/17.png",
+        "title": "AA市的职场生存纪录",
+        "url": "pieces/AA市的职场生存纪录.html",
+        "order": 4.0
+    },
+    {
+        "src": "images/players/27.png",
+        "title": "AA市的創業起步心得",
+        "url": "pieces/AA市的創業起步心得.html",
+        "order": 5.0
+    }
+]

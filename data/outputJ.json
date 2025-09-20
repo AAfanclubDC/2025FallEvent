@@ -1,0 +1,32 @@
+[
+    {
+        "src": "images/players/45.png",
+        "title": "歡迎來到AA市",
+        "url": "pieces/歡迎來到AA市.html",
+        "order": 1.0
+    },
+    {
+        "src": "images/players/43.gif",
+        "title": "J組二蕉",
+        "url": "pieces/J組二蕉.html",
+        "order": 2.0
+    },
+    {
+        "src": "images/players/47.png",
+        "title": "傳說新聞社",
+        "url": "pieces/傳說新聞社.html",
+        "order": 3.0
+    },
+    {
+        "src": "images/players/33.png",
+        "title": "眼鏡修之謎",
+        "url": "pieces/眼鏡修之謎.html",
+        "order": 4.0
+    },
+    {
+        "src": "images/players/39.png",
+        "title": "傳說新聞社-終幕",
+        "url": "pieces/傳說新聞社-終幕.html",
+        "order": 5.0
+    }
+]

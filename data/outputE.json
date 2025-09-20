@@ -1,0 +1,26 @@
+[
+    {
+        "src": "images/players/42.png",
+        "title": "去博物館",
+        "url": "pieces/去博物館.html",
+        "order": 1.0
+    },
+    {
+        "src": "images/players/48.png",
+        "title": "光中我",
+        "url": "pieces/光中我.html",
+        "order": 3.0
+    },
+    {
+        "src": "images/players/22.png",
+        "title": "三体证明者",
+        "url": "pieces/三体证明者.html",
+        "order": 4.0
+    },
+    {
+        "src": "images/players/07.png",
+        "title": "早上好",
+        "url": "pieces/早上好.html",
+        "order": 5.0
+    }
+]
