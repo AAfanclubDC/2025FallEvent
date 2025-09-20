@@ -29,7 +29,7 @@ for data in datas:
         for idx, fname in enumerate(files, start=1):  # 001 從 1 開始
             ext = os.path.splitext(fname)[1]  # 取得副檔名 (包含 .)
             image_path = f"{data['Title']}/{idx:03}{ext}"
-            image_tags += f'<img src="{image_path}" alt=""><br>\n'
+            image_tags += f'<img src="{image_path}" alt="" style="max-width:100%; height:auto;"><br>\n'
     else:
         print(f"⚠ 資料夾 {folder} 不存在")
     
