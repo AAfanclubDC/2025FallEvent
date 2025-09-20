@@ -6,6 +6,12 @@
         "order": 1.0
     },
     {
+        "src": "images/players/28.png",
+        "title": "七年，往昔的追憶",
+        "url": "pieces/七年，往昔的追憶.html",
+        "order": 2.0
+    },
+    {
         "src": "images/players/14.png",
         "title": "被掩蓋的時間",
         "url": "pieces/被掩蓋的時間.html",
