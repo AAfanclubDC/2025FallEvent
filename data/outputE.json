@@ -6,6 +6,12 @@
         "order": 1.0
     },
     {
+        "src": "images/players/36.png",
+        "title": "爬山",
+        "url": "pieces/爬山.html",
+        "order": 2.0
+    },
+    {
         "src": "images/players/48.png",
         "title": "光中我",
         "url": "pieces/光中我.html",
