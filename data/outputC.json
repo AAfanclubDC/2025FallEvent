@@ -1,0 +1,26 @@
+[
+    {
+        "src": "images/players/02.png",
+        "title": "天空塔餐厅劫持事件",
+        "url": "pieces/天空塔餐厅劫持事件.html",
+        "order": 1.0
+    },
+    {
+        "src": "images/players/14.png",
+        "title": "被掩蓋的時間",
+        "url": "pieces/被掩蓋的時間.html",
+        "order": 3.0
+    },
+    {
+        "src": "images/players/05.png",
+        "title": "阿庫亞鳴泣之時；二重身探險劇",
+        "url": "pieces/阿庫亞鳴泣之時；二重身探險劇.html",
+        "order": 4.0
+    },
+    {
+        "src": "images/players/24.png",
+        "title": "堕天计划",
+        "url": "pieces/堕天计划.html",
+        "order": 5.0
+    }
+]

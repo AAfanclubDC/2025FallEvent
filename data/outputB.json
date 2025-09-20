@@ -1,0 +1,26 @@
+[
+    {
+        "src": "images/players/04.png",
+        "title": "騎靈王",
+        "url": "pieces/騎靈王.html",
+        "order": 1.0
+    },
+    {
+        "src": "images/players/25.png",
+        "title": "乞望奇蹟",
+        "url": "pieces/乞望奇蹟.html",
+        "order": 3.0
+    },
+    {
+        "src": "images/players/18.png",
+        "title": "向田剛志的奇妙冒險",
+        "url": "pieces/向田剛志的奇妙冒險.html",
+        "order": 3.0
+    },
+    {
+        "src": "images/players/20.png",
+        "title": "不受理裁定",
+        "url": "pieces/不受理裁定.html",
+        "order": null
+    }
+]

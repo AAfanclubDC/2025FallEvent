@@ -1,0 +1,32 @@
+[
+    {
+        "src": "images/players/44.png",
+        "title": "砂糖天国",
+        "url": "pieces/砂糖天国.html",
+        "order": 1.0
+    },
+    {
+        "src": "images/players/19.png",
+        "title": "固步循环",
+        "url": "pieces/固步循环.html",
+        "order": 2.0
+    },
+    {
+        "src": "images/players/41.png",
+        "title": "逐牌狂途",
+        "url": "pieces/逐牌狂途.html",
+        "order": 3.0
+    },
+    {
+        "src": "images/players/11.png",
+        "title": "正念进食",
+        "url": "pieces/正念进食.html",
+        "order": 4.0
+    },
+    {
+        "src": "images/players/13.png",
+        "title": "谎花采访",
+        "url": "pieces/谎花采访.html",
+        "order": 5.0
+    }
+]

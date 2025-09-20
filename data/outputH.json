@@ -1,0 +1,26 @@
+[
+    {
+        "src": "images/players/15.png",
+        "title": "沙丁魚",
+        "url": "pieces/沙丁魚.html",
+        "order": 1.0
+    },
+    {
+        "src": "images/players/40.png",
+        "title": "飛鳥篇",
+        "url": "pieces/飛鳥篇.html",
+        "order": 2.0
+    },
+    {
+        "src": "images/players/31.png",
+        "title": "莱纳篇",
+        "url": "pieces/莱纳篇.html",
+        "order": 3.0
+    },
+    {
+        "src": "images/players/30.png",
+        "title": "天子篇-電子羊之夢",
+        "url": "pieces/天子篇-電子羊之夢.html",
+        "order": 5.0
+    }
+]
