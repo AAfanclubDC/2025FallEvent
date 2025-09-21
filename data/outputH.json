@@ -18,6 +18,12 @@
         "order": 3.0
     },
     {
+        "src": "images/players/21.png",
+        "title": "舞篇",
+        "url": "pieces/舞篇.html",
+        "order": 3.0
+    },
+    {
         "src": "images/players/30.png",
         "title": "天子篇-電子羊之夢",
         "url": "pieces/天子篇-電子羊之夢.html",
