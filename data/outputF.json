@@ -9,6 +9,12 @@
         "src": "images/players/08.png",
         "title": "跨越悲傷之海",
         "url": "pieces/跨越悲傷之海.html",
-        "order": 1.0
+        "order": 2.0
+    },
+    {
+        "src": "images/players/37.png",
+        "title": "【3】願你能手握幸福",
+        "url": "pieces/願你能手握幸福.html",
+        "order": 3.0
     }
 ]
