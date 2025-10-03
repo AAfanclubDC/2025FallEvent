@@ -13,8 +13,14 @@
     },
     {
         "src": "images/players/37.png",
-        "title": "【3】願你能手握幸福",
+        "title": "願你能手握幸福",
         "url": "pieces/願你能手握幸福.html",
         "order": 3.0
+    },
+    {
+        "src": "images/players/29.png",
+        "title": "彩羽篇",
+        "url": "pieces/彩羽篇.html",
+        "order": 4.0
     }
 ]
