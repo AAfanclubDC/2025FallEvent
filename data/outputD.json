@@ -1,8 +1,14 @@
 [
     {
         "src": "images/players/06.png",
-        "title": "安戈莉婭長照中心",
-        "url": "pieces/AACity_D/AACity_D_Windows.zip",
+        "title": "安戈莉婭長照中心-P1",
+        "url": "pieces/AACity_D/AACity_D_Windows_20251003.z01",
         "order": 1.0
+    },
+    {
+        "src": "images/players/06.png",
+        "title": "安戈莉婭長照中心-P2",
+        "url": "pieces/AACity_D/AACity_D_Windows_20251003.zip",
+        "order": 2.0
     }
 ]
