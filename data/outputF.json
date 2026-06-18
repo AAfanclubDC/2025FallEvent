@@ -19,14 +19,8 @@
     },
     {
         "src": "images/players/29.png",
-        "title": "彩羽篇",
-        "url": "pieces/彩羽篇.html",
-        "order": 4.0
-    },
-    {
-        "src": "images/players/29.png",
         "title": "到了明天也要再相见",
         "url": "pieces/到了明天也要再相见.html",
-        "order": 5.0
+        "order": 4.0
     }
 ]
